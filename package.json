@@ -1,0 +1,19 @@
+{
+  "name": "libre-pastoreo",
+  "version": "1.0.0",
+  "description": "Sitio personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisco914/libre-pastoreo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francisco914/libre-pastoreo/issues"
+  },
+  "homepage": "https://github.com/Francisco914/libre-pastoreo#readme"
+}
